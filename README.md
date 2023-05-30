@@ -1,5 +1,5 @@
 # Hotel Management System
-### DBMS Course Project by Group-16, CS22
+### [Contact me](mailto:vidhey.bhogadi2003@gmail.com) for database
 #### Made using Python-Flask, MySQL, HTML, TailwindCSS and JavaScript
 
 ### Team Members
