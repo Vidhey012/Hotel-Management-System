@@ -1,1 +1,0 @@
-DELETE FROM Employees WHERE emp_id = %s;

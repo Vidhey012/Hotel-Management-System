@@ -1,1 +1,0 @@
-SELECT cust_id FROM Customer WHERE cust_ph_no = %s;
